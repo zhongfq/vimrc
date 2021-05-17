@@ -16,7 +16,7 @@ Bundle 'scrooloose/nerdtree'
 Bundle 'scrooloose/nerdcommenter'
 Bundle 'terryma/vim-multiple-cursors'
 Bundle 'tomasr/molokai'
-Bundle 'Valloric/YouCompleteMe'
+Bundle 'ycm-core/YouCompleteMe'
 "Bundle 'roxma/nvim-completion-manager'
 Bundle 'vim-scripts/taglist.vim'
 
